@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'open-sans-font';
+  src: url('../assets/fonts/OpenSans_Condensed-Bold.ttf') format('truetype');
+}
+
+* {
+  font-family: 'open-sans-font';
+}
+
+body {
+  margin: 0;
+}
+
+
